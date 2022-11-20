@@ -4,5 +4,5 @@ for i in range(5):
     print(stack[i])
 stack.pop(0)
 print("FILO : After")
-for i in range(4):
+for i in range(5):
     print(stack[i])
