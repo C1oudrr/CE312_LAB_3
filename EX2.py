@@ -1,4 +1,4 @@
-stack = ['A','B','C','E','F']
+stack = ['A','B','C','D','E','F']
 print("FILO : Before")
 for i in range(5):
     print(stack[i])
